@@ -1,1 +1,315 @@
-# AnthonyS4b.github.io
+<!DOCTYPE html>
+   <html lang="end">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="style.css">
+        <title>My Portfolio</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+         </head>
+    <body>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top fs-6">
+            <div id="Home" class="container"> 
+              <a class="navbar-brand" href="#"><i class="bi bi-house-up"></i></a>
+              <a class="navbar-brand" href="#homepage">AnthonyS.</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+                <!--Burger-->
+              <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" href="#homepage">Home</a>
+                  <li class="nav-item">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about" class="btn btn-primary btn-xl rounded-pill mt-5">About</a>
+                      </li>
+                      <li class="nav3" class="nav-item">
+                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" class="text-bg-dark">Service</a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#skills">Skills</a></li>
+                <li><a class="dropdown-item" href="#portfolio">Service</a></li>
+                <li><a class="dropdown-item" href="#cars">Activities</a></li>
+              </ul>
+             </li>
+               </li>
+                  </li>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contact" class="btn btn-primary btn-xl rounded-pill mt-5">Contact</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            </div>
+          </nav> 
+        <section id="homepage">
+          <h3 class="con2 text-light fs-1">Hello, I'm John Anthony<b class="text-success"> Sabater</b></h3>
+          <p id="par1" class="text-light fs-5"><b>Designer And Web Developer</b></p>
+        </section>
+    </header>
+    <div class="button1">
+        <a id="ilove" href="#contact"><button id="bot1" class="text-light"><b>Hire Me!</b></button></a>
+   </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+   <section id="border1">
+    <div class="container">
+        <h2 id="about" style="text-align: center;" class="text-success display-5">ABOUT <b class="text-dark">ME</b></h2>
+    </div>
+    <div class="container1">
+           <div class="about-content">
+               <div class="about-text"> 
+                <p class="h6">Developer & Designer</p>
+               </div>        
+           </div>
+    </div>
+    <section class="sec1">
+      <div class="container-fluid">
+          <div class="name1">
+            <div class="col-lx-4">
+            <img class="img2 rounded-pill" src="anthony.jpg" width="300px" >
+              <p class="p6">Hi! I am John Anthony Sabater, 19 years old and I live in Brgy. San Agustin 2, Southcrest Village, Dasmariñas City, Cavite. I am the fourth child of six children in my family. I graduated senior high school in the strand CBF at Congressional Integrated High School (now Emmanuel Ressurecion Integrated High School a.k.a ERCIHS). My strand may not be aligned with the course I am currently taking but my passion and interest pursue me to continue with what I wanted. My willingness and eagerness to learn is what keeps me liking and loving this course. </p>
+          </div>
+        </div>
+        <div id="card1" class="card1">
+          <img class="rounded" src="anthony.jpg" alt="Avatar" style="width:350px">
+          <div class="container-fluid">
+            <h4 class="text-center"><b>Designer</b></h4>
+             <p style="text-align:center">I take my work as a Designer<br>seriously and this means I always ensure my<br>skills arekept up to date within    this<br>rapidly changing industry</p>
+          </div>
+        </div>
+        <div id="card2" class="card2">
+          <img class="rounded" src="anthony.jpg" alt="Avatar" style="width:350px">
+          <div class="container-fluid">
+            <h4 class="text-center"><b>Developer</b></h4>
+            <p style="text-align:center">I have extensive experience working both alone<br> and as part of a team on often time-sensitive,<br> challenging web development projects that require<br> outstanding creative and technical capabilities</p>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+    <h2 style="text-align: center; margin-top: 50px;" class="display-5 text-success">SER<b class="text-dark">VICE</b></h2>
+            <section id="service">
+          <div class="container">
+      <div class="row">
+      <div class="col-md-6 md-6">
+        <div id="item1" class="card h-100 mt-4">
+          <i class="bi bi-tools text-success" style="text-align: center; font-size: 50px;"></i>
+            <div class="card-body" width="100px">
+                <h4 class="card-title text-center">Web Development</h4>
+                <p class="card-text">Developing Website Using HTML/CSS</p>
+            </div>
+        </div>
+    </div>
+      <!-- Repeat the structure for additional portfolio items -->
+      <div class="col-md-6 md-6 d-flex">
+        <div id="item2" class="card h-100 mt-4">
+          <i class="bi bi-code-slash text-success" style="text-align: center; font-size: 50px;"></i>
+            <div class="card-body" width="100px">
+                <h4 class="card-title text-center ">Web Design</h4>
+                <p class="card-text">Designing Website Using HTML/CSS</p>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+</section>
+          <div id="skills" class="container">
+        <h2 style="text-align: center; margin-top: 50px;" class="display-5 text-dark mt-10x">MY<b class="text-success"> SKILL</b></h2> 
+        </div>
+        <div class="container">
+          <div class="col">
+                <div class="row">
+                    <div id="ewan">
+                      <i class="bi bi-filetype-html text-success rounded-pill"></i>
+                    </div>
+                </div>
+           </div>
+      </div>
+   <div class="container">
+        <div class="col">
+              <div class="row">
+                  <div id="siguro">
+                    <i class="bi bi-filetype-css text-success"></i>
+                  </div>
+              </div>
+         </div>
+    </div>
+  <section class="bars">
+  <div class="container">
+      <div class="col">
+            <div class="row">
+                <div id="malay">
+                  <i class="bi bi-bootstrap text-success"></i>
+                </div>
+            </div>
+       </div>
+  </div>
+  <section class="bars">
+    <div class="bar1">
+      <h4 class="display-6 text-success" style="font-size: 20px;"><b>HTML:</b></h4>
+      <div class="progress">
+        <div class="progress-bar bg-success" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">HTML 70%</div>
+      </div>
+    </div>
+    <div class="bar2">
+      <h4 class="display-6 text-success" style="font-size: 20px;"><b>CSS:</b></h4>
+      <div class="progress">
+        <div class="progress-bar bg-success" role="progressbar" style="width: 55%;" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">CSS 55%</div> 
+      </div>
+    </div>
+    <div class="bar3">
+      <h4 class="display-6 text-success" style="font-size: 20px;"><b>BOOTSTRAP:</b></h4>
+      <div class="progress">
+        <div class="progress-bar bg-success" role="progressbar" style="width: 35%;" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">Bootstrap 25%</div>
+      </div>
+    </div>
+  </section>
+  <div class="container">
+    <h2 style="text-align: center; margin-top: 50px;" class="display-5 text-dark mt-10x">ACTI<b class="text-success">VITES</b></h2> 
+    </div>
+  <!--Carousel-->
+  <section id="cars">
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="dragon.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>First slide label</h5>
+            <p>Some representative placeholder content for the first slide.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="robot.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Second slide label</h5>
+            <p>Some representative placeholder content for the second slide.</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="wahaah.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Third slide label</h5>
+            <p>Some representative placeholder content for the third slide.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </section>
+  <!-- Portfolio Section -->
+<section id="portfolio">
+  <div class="container">
+      <h2 class="text-center display-5 text-dark mt-10x" style="text-align: center; margin-top: 50px;">PORT<b class="text-success">FOLIO</b></h2>
+      <div class="row">
+          <div class="col-md-4 mb-4">
+              <div id="port1" class="card h-100">
+                <i class="bi bi-facebook text-primary" style="font-size: 100px; text-align: center;"></i>
+                  <div class="card-body">
+                    <hr style="border: 1px solid;">
+                    <h4 class="card-title text-center display-5">FB CLONE</h4>
+                      <p class="card-text text-dark">Cloning FB using HTML and CSS.</p>
+                  </div>
+              </div>
+          </div>
+          <div class="col-md-4 mb-4">
+            <div id="port2" class="card h-100">
+             <i class="bi bi-file-person-fill text-success" style="font-size: 100px; text-align: center;"></i>
+                <div class="card-body" width="80px">
+                  <hr style="border: 1px solid;">
+                  <h4 class="card-title text-center display-5">RESUME</h4>
+                    <p class="card-text">Creating Resume using HTML and CSS.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+          <div id="port3" class="card h-100">
+            <i class="bi bi-calendar-check text-primary" style="font-size: 100px; text-align: center;"></i>
+              <div class="card-body" width="80px">
+                <hr style="border: 1px solid;">
+                <h4 class="card-title text-center display-5">COR</h4>
+                  <p class="card-text">Creating COR using HTML and CSS.</p>
+              </div>
+          </div>
+      </div>
+      </div>
+  </div>
+</section>
+        <div id="contact" class="container">
+               <h2 style="text-align: center; margin-top: 50px;" class="display-5 text-dark mt-10x">CON<b class="text-success">TACT</b></h2> 
+       </div>
+       <section id="contact" class="bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-center">Inquire now!</h2>
+                    <p class="lead">Hire me! Fill out the form below and Send me a Details.</p>
+                    <!-- Add your contact form here -->
+                    <div>
+                      <form action="/action_page.php">
+                        <label for="fname">Email </label>
+                        <input type="text" id="fname" name="firstname" placeholder="Your Email">
+                    
+                        <label for="lname">Contact</label>
+                        <input type="text" id="lname" name="lastname" placeholder="Contact Number">
+                      </form>
+                      <form>
+                        <textarea class="send">Send Me A Details....</textarea>
+                      </form>
+                    </div>
+                    <form>
+                        <!-- Form fields go here -->
+                        <button type="submit" class="btn btn-success btn-xl rounded-pill mt-3">Send Message</button>
+                        <div class="socialname">
+                          <h3 class="display-5"><b class="text-success">Connect</b> with me thru </h3>
+                        </div>
+                        <section id="social">
+                          <a href="https://www.facebook.com/Anthonys4b/">
+                          <button id="bot1">
+                        <div class="social1 text-primary fs-2">
+                          <i class="bi bi-facebook"></i>
+                        </div>
+                            </button> </a>
+                            <a href="https://www.instagram.com/ant.5k4/">
+                            <button id="bot1">
+                        <div class="social2 fs-2">
+                            <i class="bi bi-instagram text-warning"></i>
+                        </div>
+                            </button></a>
+                            <a href="https://twitter.com/hmmz1y" target="_blank">
+                           <button id="bot1">
+                            <div class="social2 text-primary fs-2">
+                              <i class="bi bi-twitter"></i>
+                        </div>
+                            </button></a>
+                            </section>
+                    </form>
+                </div>
+            </div>
+        </div>
+      </section>
+      <div>
+      <footer id="fot" class="py-5 bg-success">
+        <div class="container-fluid">
+            <p class="m-0 text-center text-white">John Anthony Sabater &copy; 2023</p>
+        </div>
+      </footer>
+      </div>
+    </body>
+  </html>
+    </body>
+   </html>

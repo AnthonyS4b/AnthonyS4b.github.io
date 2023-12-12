@@ -97,14 +97,14 @@ body{
     display: flex;
 }
 #item1{
-    margin-right: 47px;
+    margin-right: 70px;
     float: right;
     text-align: center;
     display: flex;
 }
 #item2{
     text-align: center;
-    margin-left: 65px;
+    margin-left: 63px;
     float: left;
 }
 header{

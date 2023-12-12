@@ -55,7 +55,7 @@ body{
     padding: 20px;
     border-radius: 60px;
     width: 350px;
-    margin-left: 5px;
+    margin-left: 45px;
     display: inline-block;
 }
 .name1:hover{   
@@ -72,16 +72,16 @@ body{
     margin-top: 20px;
     float: right;
     margin-right: 7px;
-    padding: 15px;
+    padding: 6px;
     font-size: 15px;
     border: 1px solid;
-    border-radius:60px;
+    border-radius:50px;
 }
 .card1{
     margin-top: 20px;
     float: right;
     margin-right: auto;
-    padding: 15px;
+    padding: 6px;
     font-size: 15px;
     border: 1px solid;
     border-radius: 60px;

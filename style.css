@@ -1,0 +1,231 @@
+body{
+    background-image: url('pxfuel.jpg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position:center top ;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.con2{
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#par1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button1{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 48%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#bot1{
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0); 
+    font-family: 'Times New Roman', Times, serif;
+    width: 100px;
+    transition: 1s;
+    border: 1px solid;
+    border-color: white;
+}
+#bot1:hover{
+    background-color: rgba(21, 153, 83, 0.672);
+    width: 200px;
+}
+.container1 {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.h6{
+    text-align: center;
+}
+.p6{
+    font-family: "Times New Roman", Times, serif;
+    text-shadow: 2px, 2px, 3px;
+    font-size: smaller;
+}
+.name1{
+    margin-top: 20px;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 60px;
+    width: 400px;
+    margin-left: 25px;
+    display: inline-block;
+}
+.name1:hover{   
+    outline: 0px solid transparent;
+    padding: 20px 20px;
+    border: 5px solid  rgb(11, 129, 35);;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+  }
+.img2{
+    margin-left: 30px;
+}
+#card2 {
+    margin-top: 20px;
+    float: right;
+    margin-right: auto;
+    padding: 15px;
+    font-size: 15px;
+    border: 1px solid;
+    border-radius:60px;
+}
+.card1{
+    margin-top: 20px;
+    float: right;
+    margin-right: 5px;
+    padding: 15px;
+    font-size: 15px;
+    border: 1px solid;
+    border-radius: 60px;
+}
+.rounded{
+    margin-right: 25px;
+    margin-left: 30px;
+}
+#border2{
+    margin-top: 20px;
+}
+#portfolio{
+    display: flex;
+}
+#item1{
+    margin-right: 75px;
+    float: right;
+    text-align: center;
+    display: flex;
+}
+#item2{
+    text-align: center;
+    margin-left: 60px;
+    float: left;
+}
+header{
+    align-items: center;
+    margin: 10px;
+}
+#ewan{
+    font-size: 100px;
+    text-align: left;
+    margin-left: 50px;
+}
+#siguro{
+    font-size: 100px;
+    text-align: center;
+    margin-top: -150px;
+}
+#malay{
+    font-size: 100px;
+    text-align: right;
+    margin-top: -160px;
+    margin-left: -50px;
+}
+.bars{
+    margin-top: 10px;
+}
+.bar1{
+    margin-bottom: 10px;
+    width: auto;
+    padding: 20px;
+}
+.bar2{
+    margin-bottom: 10px;
+    width: auto;
+    padding: 20px;
+}
+.bar3{
+    margin-bottom: 10px;
+    width: auto;
+    padding: 20px;
+}
+#cars{
+    padding-left: 50px;
+    width: 100%;
+    padding-right: 50px;
+    
+}
+#service{
+    margin-left: 20px;
+}
+.port1{
+    align-items: center;
+    display: flex;
+}
+#port1{
+    margin-top: 15px;
+    width: 305px;
+    margin-left: 75px;
+}
+#port2{
+    width: 305px;
+    margin-left: 75px;
+    margin-top: 13px;
+}
+#port3{
+    margin-left: 75px;
+    width: 305px;
+    margin-top: 13px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+  
+input[type=submit] {
+    width: 100%;
+    background-color: #dde4dd;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+#fot{
+    margin-top: 20px;
+    width: 100%;
+}
+#card1:hover{
+    outline: 0px solid transparent;
+    padding: 20px 20px;
+    border: 5px solid  rgb(11, 129, 35);;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+#card2:hover{
+    outline: 0px solid transparent;
+    padding: 20px 20px;
+    border: 5px solid  rgb(11, 129, 35);;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+#social{
+    text-align: center;
+    margin-top: 10px;
+}
+.socialname{
+    text-align: center;
+}

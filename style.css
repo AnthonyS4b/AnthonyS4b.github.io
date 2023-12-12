@@ -52,10 +52,10 @@ body{
 .name1{
     margin-top: 20px;
     border: 1px solid;
-    padding: 20px;
-    border-radius: 60px;
-    width: 350px;
-    margin-left: 35px;
+    padding: 10px;
+    border-radius: 50px;
+    width: 400px;
+    margin-left: 2px;
     display: inline-block;
 }
 .name1:hover{   
@@ -66,12 +66,12 @@ body{
     transition: all 0.2s ease-in-out;
   }
 .img2{
-    margin-left: 1px;
+    margin-left: 50px;
 }
 #card2 {
     margin-top: 20px;
-    float: right;
-    margin-right: 7px;
+    float: left;
+    margin-left: 20px;
     padding: 6px;
     font-size: 15px;
     border: 1px solid;
@@ -79,8 +79,8 @@ body{
 }
 .card1{
     margin-top: 20px;
-    float: right;
-    margin-right: auto;
+    float: left;
+    margin-left: 20px;
     padding: 6px;
     font-size: 15px;
     border: 1px solid;
@@ -97,14 +97,14 @@ body{
     display: flex;
 }
 #item1{
-    margin-right: 75px;
+    margin-right: 47px;
     float: right;
     text-align: center;
     display: flex;
 }
 #item2{
     text-align: center;
-    margin-left: 60px;
+    margin-left: 65px;
     float: left;
 }
 header{
